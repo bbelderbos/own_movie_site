@@ -48,4 +48,4 @@
     sys 0m0.420s
     ```
 
-* see example output by opening topmovies.html output file in the browser or click [here](http://bobbelderbos.com/topmovies.html)
+* see example output by opening topmovies.html output file in the browser 
