@@ -1,0 +1,250 @@
+The Shawshank Redemption,1994
+The Godfather,1972
+The Godfather: Part II,1974
+The Dark Knight,2008
+Pulp Fiction,1994
+Schindler's List,1993
+12 Angry Men,1957
+The Lord of the Rings: The Return of the King,2003
+The Good, the Bad and the Ugly,1966
+Fight Club,1999
+The Lord of the Rings: The Fellowship of the Ring,2001
+Star Wars: Episode V - The Empire Strikes Back,1980
+Forrest Gump,1994
+Inception,2010
+The Lord of the Rings: The Two Towers,2002
+One Flew Over the Cuckoo's Nest,1975
+Goodfellas,1990
+The Matrix,1999
+Seven Samurai,1954
+Star Wars: Episode IV - A New Hope,1977
+City of God,2002
+Se7en,1995
+The Silence of the Lambs,1991
+It's a Wonderful Life,1946
+The Usual Suspects,1995
+Life Is Beautiful,1997
+Léon: The Professional,1994
+Once Upon a Time in the West,1968
+Spirited Away,2001
+Saving Private Ryan,1998
+Interstellar,2014
+Casablanca,1942
+American History X,1998
+City Lights,1931
+Psycho,1960
+Raiders of the Lost Ark,1981
+Rear Window,1954
+The Intouchables,2011
+Modern Times,1936
+The Green Mile,1999
+Terminator 2: Judgment Day,1991
+The Pianist,2002
+The Departed,2006
+Whiplash,2014
+Back to the Future,1985
+Memento,2000
+Gladiator,2000
+Apocalypse Now,1979
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964
+The Prestige,2006
+Sunset Blvd.,1950
+The Lion King,1994
+Alien,1979
+The Great Dictator,1940
+The Lives of Others,2006
+Cinema Paradiso,1988
+Django Unchained,2012
+The Shining,1980
+Paths of Glory,1957
+Deadpool,2016
+The Dark Knight Rises,2012
+Grave of the Fireflies,1988
+WALL·E,2008
+American Beauty,1999
+Aliens,1986
+Princess Mononoke,1997
+Old Boy,2003
+Citizen Kane,1941
+North by Northwest,1959
+Vertigo,1958
+Érase una vez en América,1984
+Das Boot,1981
+Star Wars: Episode VI - Return of the Jedi,1983
+M,1931
+Witness for the Prosecution,1957
+Amélie,2001
+Reservoir Dogs,1992
+Braveheart,1995
+Requiem for a Dream,2000
+A Clockwork Orange,1971
+Taxi Driver,1976
+Toy Story 3,2010
+Double Indemnity,1944
+To Kill a Mockingbird,1962
+Lawrence of Arabia,1962
+Star Wars: Episode VII - The Force Awakens,2015
+Eternal Sunshine of the Spotless Mind,2004
+Full Metal Jacket,1987
+Amadeus,1984
+The Sting,1973
+Singin' in the Rain,1952
+Bicycle Thieves,1948
+2001: A Space Odyssey,1968
+Snatch.,2000
+Monty Python and the Holy Grail,1975
+Toy Story,1995
+The Kid,1921
+Inglourious Basterds,2009
+L.A. Confidential,1997
+Rashomon,1950
+For a Few Dollars More,1965
+The Apartment,1960
+All About Eve,1950
+Nader y Simin, una separación,2011
+Indiana Jones and the Last Crusade,1989
+Scarface,1983
+Metrópolis,1927
+The Treasure of the Sierra Madre,1948
+Yojimbo,1961
+Inside Out,2015
+Batman Begins,2005
+Some Like It Hot,1959
+3 Idiots,2009
+The Third Man,1949
+Unforgiven,1992
+The Hunt,2012
+Up,2009
+Good Will Hunting,1997
+Raging Bull,1980
+Downfall,2004
+Die Hard,1988
+Chinatown,1974
+The Great Escape,1963
+Heat,1995
+On the Waterfront,1954
+Pan's Labyrinth,2006
+La habitación,2015
+Sunrise,1927
+My Neighbor Totoro,1988
+Mr. Smith Goes to Washington,1939
+Ikiru,1952
+The Bridge on the River Kwai,1957
+The Gold Rush,1925
+Ran,1985
+The Seventh Seal,1957
+The Secret in Their Eyes,2009
+Blade Runner,1982
+Lock, Stock and Two Smoking Barrels,1998
+The General,1926
+Wild Strawberries,1957
+Howl's Moving Castle,2004
+Casino,1995
+The Elephant Man,1980
+Warrior,2011
+The Wolf of Wall Street,2013
+V for Vendetta,2005
+The Revenant,2015
+Judgment at Nuremberg,1961
+A Beautiful Mind,2001
+Gran Torino,2008
+The Big Lebowski,1998
+Rebecca,1940
+The Deer Hunter,1978
+Incendies,2010
+Gone with the Wind,1939
+Cool Hand Luke,1967
+Fargo,1996
+How to Train Your Dragon,2010
+Trainspotting,1996
+Dial M for Murder,1954
+The Sixth Sense,1999
+Into the Wild,2007
+Finding Nemo,2003
+It Happened One Night,1934
+The Thing,1982
+No Country for Old Men,2007
+Mary and Max,2009
+Gone Girl,2014
+Mad Max: Fury Road,2015
+Kill Bill: Vol. 1,2003
+Spotlight,2015
+Rush,2013
+The Maltese Falcon,1941
+Life of Brian,1979
+Hotel Rwanda,2004
+Platoon,1986
+There Will Be Blood,2007
+The Wages of Fear,1953
+Network,1976
+Butch Cassidy and the Sundance Kid,1969
+The 400 Blows,1959
+Stand by Me,1986
+Persona,1966
+En el nombre del padre,1993
+12 Years a Slave,2013
+The Grand Budapest Hotel,2014
+The Princess Bride,1987
+Amores Perros,2000
+Touch of Evil,1958
+Shutter Island,2010
+Million Dollar Baby,2004
+Annie Hall,1977
+Ben-Hur,1959
+The Grapes of Wrath,1940
+Relatos salvajes,2014
+Hachi: A Dog's Tale,2009
+Nausicaä of the Valley of the Wind,1984
+Stalker,1979
+Diabolique,1955
+Jurassic Park,1993
+Gandhi,1982
+8½,1963
+The Bourne Ultimatum,2007
+Donnie Darko,2001
+Before Sunrise,1995
+The Wizard of Oz,1939
+The Best Years of Our Lives,1946
+The Martian,2015
+Sin City,2005
+Rocky,1976
+Memories of Murder,2003
+Strangers on a Train,1951
+The Terminator,1984
+The Truman Show,1998
+Twelve Monkeys,1995
+Harry Potter and the Deathly Hallows: Part 2,2011
+Groundhog Day,1993
+Monsters, Inc.,2001
+Infernal Affairs,2002
+The Battle of Algiers,1966
+Jaws,1975
+Barry Lyndon,1975
+La Haine,1995
+Fanny and Alexander,1982
+The Avengers,2012
+Dog Day Afternoon,1975
+Ip Man,2008
+Prisoners,2013
+Throne of Blood,1957
+The Imitation Game,2014
+The King's Speech,2010
+La Grande Illusion,1937
+Guardians of the Galaxy,2014
+Pirates of the Caribbean: The Curse of the Black Pearl,2003
+High Noon,1952
+A Fistful of Dollars,1964
+The Help,2011
+Castle in the Sky,1986
+Roman Holiday,1953
+Catch Me If You Can,2002
+Notorious,1946
+Gangs of Wasseypur,2012
+Who's Afraid of Virginia Woolf?,1966
+Underground,1995
+Beauty and the Beast,1991
+Spring, Summer, Fall, Winter... and Spring,2003
+Anatomy of a Murder,1959
+In the Mood for Love,2000
+Before Sunset,2004
+Akira,1988
