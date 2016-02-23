@@ -1,6 +1,6 @@
-# own_movie_site
+# Your own movie site in less than one minute with OMDb API and Python
 
-* copy and paste top 250 movies from [imdb[(http://www.imdb.com/chart/top) and put in file called inimdb-top-rated.txt file
+* copy and paste top 250 movies from [imdb](http://www.imdb.com/chart/top) and put in file called inimdb-top-rated.txt file
 
     $ head  imdb-top-rated.txt 
       1. The Shawshank Redemption (1994)  9.2   
