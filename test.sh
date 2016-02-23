@@ -19,4 +19,4 @@ python <(curl -s https://raw.githubusercontent.com/bbelderbos/own_movie_site/mas
 
 echo
 echo "4. open the generated html site in default browser (mac, other OS, click on generateed topmovies.html)"
-open topmovies.html
+open $mymovies
