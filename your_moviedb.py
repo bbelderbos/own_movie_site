@@ -1,16 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import json
 import os
 from pprint import pprint as pp
 import sys
-import json
+import time
 import urllib
 
+now = int(time.time())
 omdb_url = "http://www.omdbapi.com/"
 imdb_url = "http://www.imdb.com/title/"
 poster_placeholder = "http://entertainment.ie/movie_trailers/trailers/flash/posterPlaceholder.jpg" 
 template = "template.html"
-out_file = "topmovies.html"
+out_file = "mymovies.html"
 
 def movies_to_query(lst):
   with open(lst) as f:
@@ -76,7 +78,8 @@ def create_html_page(movies):
     else:
       ff.write(line)
   ff.close()
-  print "Done, %d processed, created static html movie page: %s" % (len(movies), out_file)
+  elapsed = int(time.time()) - now
+  print "Done, %d processed, created static html movie page: %s in %d seconds" % (len(movies), out_file, elapsed)
   
 
 if __name__ == "__main__":
