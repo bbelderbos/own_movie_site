@@ -1,5 +1,6 @@
 #!/bin/bash
 mymovies=my_movies_$(date +%s).txt
+outfile=mymovies.html
 
 echo "Test script for { Your movie site in just one minute }"
 echo "See http://bobbelderbos.com/2016/02/movie-site-in-minute-omdb-api-python/ for more info"
@@ -18,5 +19,5 @@ echo "3. run the movie site creation script (via github)"
 python <(curl -s https://raw.githubusercontent.com/bbelderbos/own_movie_site/master/your_moviedb.py) $mymovies
 
 echo
-echo "4. open the generated html site in default browser (mac, other OS, click on generateed topmovies.html)"
-open $mymovies
+echo "4. open the generated html site in default browser (mac, other OS, click on generateed $outfile)"
+open $outfile
